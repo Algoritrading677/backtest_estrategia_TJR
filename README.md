@@ -1,0 +1,1 @@
+# backtest_estrategia_TJR
